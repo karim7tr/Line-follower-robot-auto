@@ -1,5 +1,7 @@
 # Line-follower-robot-auto
 this project is one of project that I work on it in the FABLAB "Research Laboratory at University Of Bechar"
+
+
 This is a code for a robot with two sensors (left and right) and two motors (left and right) to navigate a black line on a white background. 
 
 The code begins by defining the pins for the left and right sensors (IN1 and IN4, respectively) and the pins for the two motors (GA and GB for the left motor, DA and DB for the right motor). The setup function initializes the serial communication and sets the pin modes for all the pins.
